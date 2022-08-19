@@ -1,0 +1,51 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+/* background every section */
+.haike {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(/image/hero.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+.haike-about {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(/image/about.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+.haike-projects {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(/image/projects.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+.haike-contact {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(/image/about.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+.haike-footer {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(/image/projects.png);
+  height: 93vh;
+  background-position: center;
+  background-size: cover;
+}
+/* end background ever section */
+.bg-p {
+  background: #140021;
+}
+.h {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.f {
+  font-family: "Fjalla One", sans-serif;
+}

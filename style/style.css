@@ -3,28 +3,28 @@
 /* background every section */
 .haike {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/image/hero.png);
+    url(image/hero.png);
   height: 100vh;
   background-position: center;
   background-size: cover;
 }
 .haike-about {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/image/about.png);
+    url(image/about.png);
   height: 100vh;
   background-position: center;
   background-size: cover;
 }
 .haike-projects {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/image/projects.png);
+    url(image/projects.png);
   height: 100vh;
   background-position: center;
   background-size: cover;
 }
 .haike-contact {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/image/about.png);
+    url(image/about.png);
   height: 100vh;
   background-position: center;
   background-size: cover;
